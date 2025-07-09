@@ -21,7 +21,7 @@ rent
 Book Now https://github.com/praful10214/Car-Rental-System/blob/main/Screenshots/booknow.jpg
 book
 
-Payment
+Payment https://github.com/praful10214/Car-Rental-System/blob/main/Screenshots/payment.jpg
 payment
 
 Admin verfication of car
