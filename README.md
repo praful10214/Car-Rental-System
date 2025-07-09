@@ -12,10 +12,10 @@ Available Cars
 https://github.com/praful10214/Car-Rental-System/blob/main/Screenshots/cars.jpg
 available_cars
 
-Loginhttps://github.com/praful10214/Car-Rental-System/blob/main/Screenshots/login.png
+Login https://github.com/praful10214/Car-Rental-System/blob/main/Screenshots/login.png
 login
 
-Rent a car
+Rent a car https://github.com/praful10214/Car-Rental-System/blob/main/Screenshots/rent.jpg
 rent
 
 Book Now
