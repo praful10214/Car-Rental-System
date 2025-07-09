@@ -9,9 +9,11 @@ https://github.com/praful10214/Car-Rental-System/blob/main/Screenshots/index.jpg
 landing_page
 
 Available Cars
+https://github.com/praful10214/Car-Rental-System/blob/main/Screenshots/cars.jpg
 available_cars
 
 Login
+
 login
 
 Rent a car
