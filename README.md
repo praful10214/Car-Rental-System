@@ -5,6 +5,7 @@ This is a Web based Application developed using PHP as a Host Language. Database
 
 Screenshots:
 Landing Page
+https://github.com/praful10214/Car-Rental-System/blob/main/Screenshots/index.jpg
 landing_page
 
 Available Cars
