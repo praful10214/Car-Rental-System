@@ -24,5 +24,5 @@ book
 Payment https://github.com/praful10214/Car-Rental-System/blob/main/Screenshots/payment.jpg
 payment
 
-Admin verfication of car
+Admin verfication of car https://github.com/praful10214/Car-Rental-System/blob/main/Screenshots/verify%20car.jpg
 verify
